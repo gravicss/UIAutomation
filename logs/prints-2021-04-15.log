@@ -1,0 +1,9 @@
+09:52:45.494 [main] INFO  resources.Base - non restricted
+09:54:46.175 [main] INFO  resources.Base - Driver is initalize
+09:54:54.101 [main] INFO  resources.Base - restricted
+09:54:58.871 [main] INFO  resources.Base - non restricted
+12:10:23.875 [main] INFO  resources.Base - Driver is initalize
+12:10:36.819 [main] INFO  resources.Base - restricted
+12:10:39.595 [main] INFO  resources.Base - non restricted
+12:22:48.462 [main] INFO  resources.Base - Driver is initalize
+12:22:53.879 [main] INFO  resources.Base - Navigate to homepge

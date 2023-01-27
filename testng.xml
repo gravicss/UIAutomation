@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<listeners>
+<listener class-name="Academy.ListenersC"/>
+<listener class-name = "resources.ExtentReporterNG"/>
+</listeners>
+  <test name="ValidatingTitle">
+    <classes>
+      <class name="Academy.ValidateTitle"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="UserLogin">
+    <classes>
+      <class name="Academy.HomePage"/>   
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

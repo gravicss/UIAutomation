@@ -1,0 +1,9 @@
+12:22:57.581 [main] INFO  resources.Base - Driver is initalize
+12:23:04.460 [main] INFO  resources.Base - restricted
+12:23:07.818 [main] INFO  resources.Base - non restricted
+08:30:07.403 [main] INFO  resources.Base - Driver is initalize
+08:30:15.941 [main] INFO  resources.Base - restricted
+08:30:19.189 [main] INFO  resources.Base - non restricted
+09:50:24.749 [main] INFO  resources.Base - Driver is initalize
+09:50:31.289 [main] INFO  resources.Base - restricted
+09:50:35.332 [main] INFO  resources.Base - non restricted
